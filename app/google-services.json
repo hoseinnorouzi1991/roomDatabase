@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "383540759879",
+    "firebase_url": "https://pushnotif-301df.firebaseio.com",
+    "project_id": "pushnotif-301df",
+    "storage_bucket": "pushnotif-301df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383540759879:android:7bd1314bdf415938b49062",
+        "android_client_info": {
+          "package_name": "com.computertalk.pushnotif"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "383540759879-na65npam9piqjbkj9f10pkds0el5jq1p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.computertalk.pushnotif",
+            "certificate_hash": "3403e0c2c03666422caf97b1bd9f248fe7630072"
+          }
+        },
+        {
+          "client_id": "383540759879-c61ivppvukg2lenepa1stsbop8iulkjb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoqliErBa-3J0YxWbQH0897dxrjgfNuAc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "383540759879-c61ivppvukg2lenepa1stsbop8iulkjb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
